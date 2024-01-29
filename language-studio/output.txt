@@ -1,0 +1,549 @@
+Analyzed sentiment
+Document sentiment
+Mixed
+Confidence: 74.00%
+74.00%
+POSITIVE
+5.00%
+NEUTRAL
+21.00%
+NEGATIVE
+Sentence 1
+
+Sentence sentiment
+Positive
+Confidence: 99.00%
+99.00%
+POSITIVE
+1.00%
+NEUTRAL
+0.00%
+NEGATIVE
+Sentence 2
+
+Sentence sentiment
+Neutral
+Confidence: 34.00%
+34.00%
+POSITIVE
+62.00%
+NEUTRAL
+4.00%
+NEGATIVE
+Sentence 3
+
+Sentence sentiment
+Positive
+Confidence: 100.00%
+100.00%
+POSITIVE
+0.00%
+NEUTRAL
+0.00%
+NEGATIVE
+Sentence 4
+
+Sentence sentiment
+Positive
+Confidence: 100.00%
+100.00%
+POSITIVE
+0.00%
+NEUTRAL
+0.00%
+NEGATIVE
+Sentence 5
+
+Sentence sentiment
+Positive
+Confidence: 97.00%
+97.00%
+POSITIVE
+2.00%
+NEUTRAL
+0.00%
+NEGATIVE
+Sentence 6
+
+Sentence sentiment
+Neutral
+Confidence: 1.00%
+1.00%
+POSITIVE
+97.00%
+NEUTRAL
+2.00%
+NEGATIVE
+Sentence 7
+
+Sentence sentiment
+Positive
+Confidence: 100.00%
+100.00%
+POSITIVE
+0.00%
+NEUTRAL
+0.00%
+NEGATIVE
+Sentence 8
+
+Sentence sentiment
+Positive
+Confidence: 100.00%
+100.00%
+POSITIVE
+0.00%
+NEUTRAL
+0.00%
+NEGATIVE
+Sentence 9
+
+Sentence sentiment
+Neutral
+Confidence: 2.00%
+2.00%
+POSITIVE
+52.00%
+NEUTRAL
+46.00%
+NEGATIVE
+Sentence 10
+
+Sentence sentiment
+Positive
+Confidence: 100.00%
+100.00%
+POSITIVE
+0.00%
+NEUTRAL
+0.00%
+NEGATIVE
+Sentence 11
+
+Sentence sentiment
+Positive
+Confidence: 100.00%
+100.00%
+POSITIVE
+0.00%
+NEUTRAL
+0.00%
+NEGATIVE
+Sentence 12
+
+Sentence sentiment
+Positive
+Confidence: 99.00%
+99.00%
+POSITIVE
+1.00%
+NEUTRAL
+0.00%
+NEGATIVE
+Sentence 13
+
+Sentence sentiment
+Positive
+Confidence: 100.00%
+100.00%
+POSITIVE
+0.00%
+NEUTRAL
+0.00%
+NEGATIVE
+Sentence 14
+
+Sentence sentiment
+Positive
+Confidence: 98.00%
+98.00%
+POSITIVE
+1.00%
+NEUTRAL
+0.00%
+NEGATIVE
+Sentence 15
+
+Sentence sentiment
+Positive
+Confidence: 100.00%
+100.00%
+POSITIVE
+0.00%
+NEUTRAL
+0.00%
+NEGATIVE
+Sentence 16
+
+Sentence sentiment
+Neutral
+Confidence: 2.00%
+2.00%
+POSITIVE
+98.00%
+NEUTRAL
+0.00%
+NEGATIVE
+Sentence 17
+
+Sentence sentiment
+Positive
+Confidence: 94.00%
+94.00%
+POSITIVE
+6.00%
+NEUTRAL
+0.00%
+NEGATIVE
+Sentence 18
+
+Sentence sentiment
+Positive
+Confidence: 78.00%
+78.00%
+POSITIVE
+5.00%
+NEUTRAL
+17.00%
+NEGATIVE
+Sentence 19
+
+Sentence sentiment
+Negative
+Confidence: 14.00%
+14.00%
+POSITIVE
+6.00%
+NEUTRAL
+80.00%
+NEGATIVE
+Sentence 20
+
+Sentence sentiment
+Negative
+Confidence: 0.00%
+0.00%
+POSITIVE
+36.00%
+NEUTRAL
+63.00%
+NEGATIVE
+Sentence 21
+
+Sentence sentiment
+Positive
+Confidence: 60.00%
+60.00%
+POSITIVE
+38.00%
+NEUTRAL
+3.00%
+NEGATIVE
+Sentence 22
+
+Sentence sentiment
+Positive
+Confidence: 84.00%
+84.00%
+POSITIVE
+13.00%
+NEUTRAL
+3.00%
+NEGATIVE
+Sentence 23
+
+Sentence sentiment
+Neutral
+Confidence: 20.00%
+20.00%
+POSITIVE
+68.00%
+NEUTRAL
+12.00%
+NEGATIVE
+Sentence 24
+
+Sentence sentiment
+Neutral
+Confidence: 1.00%
+1.00%
+POSITIVE
+99.00%
+NEUTRAL
+0.00%
+NEGATIVE
+Sentence 25
+
+Sentence sentiment
+Negative
+Confidence: 0.00%
+0.00%
+POSITIVE
+0.00%
+NEUTRAL
+100.00%
+NEGATIVE
+Sentence 26
+
+Sentence sentiment
+Positive
+Confidence: 95.00%
+95.00%
+POSITIVE
+5.00%
+NEUTRAL
+1.00%
+NEGATIVE
+Sentence 27
+
+Sentence sentiment
+Neutral
+Confidence: 0.00%
+0.00%
+POSITIVE
+100.00%
+NEUTRAL
+0.00%
+NEGATIVE
+Sentence 28
+
+Sentence sentiment
+Neutral
+Confidence: 1.00%
+1.00%
+POSITIVE
+98.00%
+NEUTRAL
+1.00%
+NEGATIVE
+Sentence 29
+
+Sentence sentiment
+Neutral
+Confidence: 25.00%
+25.00%
+POSITIVE
+74.00%
+NEUTRAL
+1.00%
+NEGATIVE
+Sentence 30
+
+Sentence sentiment
+Neutral
+Confidence: 3.00%
+3.00%
+POSITIVE
+77.00%
+NEUTRAL
+20.00%
+NEGATIVE
+Sentence 31
+
+Sentence sentiment
+Neutral
+Confidence: 1.00%
+1.00%
+POSITIVE
+99.00%
+NEUTRAL
+0.00%
+NEGATIVE
+Sentence 32
+
+Sentence sentiment
+Neutral
+Confidence: 1.00%
+1.00%
+POSITIVE
+89.00%
+NEUTRAL
+9.00%
+NEGATIVE
+Sentence 33
+
+Sentence sentiment
+Neutral
+Confidence: 10.00%
+10.00%
+POSITIVE
+89.00%
+NEUTRAL
+1.00%
+NEGATIVE
+Sentence 34
+
+Sentence sentiment
+Neutral
+Confidence: 5.00%
+5.00%
+POSITIVE
+93.00%
+NEUTRAL
+2.00%
+NEGATIVE
+Sentence 35
+
+Sentence sentiment
+Negative
+Confidence: 0.00%
+0.00%
+POSITIVE
+0.00%
+NEUTRAL
+100.00%
+NEGATIVE
+Sentence 36
+
+Sentence sentiment
+Negative
+Confidence: 4.00%
+4.00%
+POSITIVE
+0.00%
+NEUTRAL
+96.00%
+NEGATIVE
+Sentence 37
+
+Sentence sentiment
+Neutral
+Confidence: 22.00%
+22.00%
+POSITIVE
+71.00%
+NEUTRAL
+7.00%
+NEGATIVE
+Sentence 38
+
+Sentence sentiment
+Negative
+Confidence: 2.00%
+2.00%
+POSITIVE
+4.00%
+NEUTRAL
+95.00%
+NEGATIVE
+Sentence 39
+
+Sentence sentiment
+Neutral
+Confidence: 1.00%
+1.00%
+POSITIVE
+96.00%
+NEUTRAL
+3.00%
+NEGATIVE
+Sentence 40
+
+Sentence sentiment
+Positive
+Confidence: 52.00%
+52.00%
+POSITIVE
+29.00%
+NEUTRAL
+19.00%
+NEGATIVE
+Sentence 41
+
+Sentence sentiment
+Positive
+Confidence: 100.00%
+100.00%
+POSITIVE
+0.00%
+NEUTRAL
+0.00%
+NEGATIVE
+Sentence 42
+
+Sentence sentiment
+Positive
+Confidence: 96.00%
+96.00%
+POSITIVE
+3.00%
+NEUTRAL
+1.00%
+NEGATIVE
+Sentence 43
+
+Sentence sentiment
+Positive
+Confidence: 100.00%
+100.00%
+POSITIVE
+0.00%
+NEUTRAL
+0.00%
+NEGATIVE
+Sentence 44
+
+Sentence sentiment
+Positive
+Confidence: 100.00%
+100.00%
+POSITIVE
+0.00%
+NEUTRAL
+0.00%
+NEGATIVE
+Sentence 45
+
+Sentence sentiment
+Positive
+Confidence: 89.00%
+89.00%
+POSITIVE
+7.00%
+NEUTRAL
+4.00%
+NEGATIVE
+Sentence 46
+
+Sentence sentiment
+Positive
+Confidence: 98.00%
+98.00%
+POSITIVE
+1.00%
+NEUTRAL
+1.00%
+NEGATIVE
+Sentence 47
+
+Sentence sentiment
+Negative
+Confidence: 1.00%
+1.00%
+POSITIVE
+5.00%
+NEUTRAL
+95.00%
+NEGATIVE
+Sentence 48
+
+Sentence sentiment
+Positive
+Confidence: 99.00%
+99.00%
+POSITIVE
+1.00%
+NEUTRAL
+0.00%
+NEGATIVE
+Sentence 49
+
+Sentence sentiment
+Neutral
+Confidence: 33.00%
+33.00%
+POSITIVE
+67.00%
+NEUTRAL
+0.00%
+NEGATIVE
