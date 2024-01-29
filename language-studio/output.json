@@ -1,0 +1,557 @@
+{
+    "documents": [
+        {
+            "id": "id__3815",
+            "sentiment": "mixed",
+            "confidenceScores": {
+                "positive": 0.74,
+                "neutral": 0.05,
+                "negative": 0.21
+            },
+            "sentences": [
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.99,
+                        "neutral": 0.01,
+                        "negative": 0
+                    },
+                    "offset": 0,
+                    "length": 15,
+                    "text": "温泉、お食事共に大満足です。 "
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.34,
+                        "neutral": 0.62,
+                        "negative": 0.04
+                    },
+                    "offset": 15,
+                    "length": 41,
+                    "text": "8,0 お風呂が部屋毎の交代制だったので、かなりゆっくりと入ることができました。 "
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 1,
+                        "neutral": 0,
+                        "negative": 0
+                    },
+                    "offset": 56,
+                    "length": 65,
+                    "text": "お食事が美味しいという口コミを見て、朝晩食事付きでお願いしましたが、どの品もとても美味しく、面白い料理もあったりして楽しめました。"
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 1,
+                        "neutral": 0,
+                        "negative": 0
+                    },
+                    "offset": 121,
+                    "length": 25,
+                    "text": "お味噌汁がほっとする味でとても美味しかったです。 "
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.97,
+                        "neutral": 0.02,
+                        "negative": 0
+                    },
+                    "offset": 146,
+                    "length": 54,
+                    "text": "女将さんが写真を撮ってくれたり、周辺の観光スポットについて教えてくれたりと、とても気さくで素敵な方でした。 "
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.97,
+                        "negative": 0.02
+                    },
+                    "offset": 200,
+                    "length": 46,
+                    "text": "洗面台が部屋に付いていないので、手洗いや歯磨きの時は、廊下にある共用のものを使用しました。\n"
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 1,
+                        "neutral": 0,
+                        "negative": 0
+                    },
+                    "offset": 246,
+                    "length": 23,
+                    "text": "Fantástico 9,0 宿の方が親切。 "
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 1,
+                        "neutral": 0,
+                        "negative": 0
+                    },
+                    "offset": 269,
+                    "length": 24,
+                    "text": "朝食のみのプランだったが食事が非常に良かった。 "
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.52,
+                        "negative": 0.46
+                    },
+                    "offset": 293,
+                    "length": 7,
+                    "text": "駅から遠い。\n"
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 1,
+                        "neutral": 0,
+                        "negative": 0
+                    },
+                    "offset": 300,
+                    "length": 35,
+                    "text": "Fantástico 9,0 急な予約なのに食事の有無の連絡は嬉しい。"
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 1,
+                        "neutral": 0,
+                        "negative": 0
+                    },
+                    "offset": 335,
+                    "length": 23,
+                    "text": "子供用の対応などありがたく、内容にも満足です。"
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.99,
+                        "neutral": 0.01,
+                        "negative": 0
+                    },
+                    "offset": 358,
+                    "length": 26,
+                    "text": "女将さんのお人柄もよく、とてもありがたかったです。\n"
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 1,
+                        "neutral": 0,
+                        "negative": 0
+                    },
+                    "offset": 384,
+                    "length": 13,
+                    "text": "ゆっくり、楽しめました。 "
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.98,
+                        "neutral": 0.01,
+                        "negative": 0
+                    },
+                    "offset": 397,
+                    "length": 20,
+                    "text": "9,0 朝、晩とも食事が美味しかった。 "
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 1,
+                        "neutral": 0,
+                        "negative": 0
+                    },
+                    "offset": 417,
+                    "length": 28,
+                    "text": "女将さんの温かみのあるおもてなしで良い旅になりました。\n"
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.98,
+                        "negative": 0
+                    },
+                    "offset": 445,
+                    "length": 48,
+                    "text": "海外の旅行者が日本らしさを感じるのに最適なホスピタリティを提供するお宿!もちろん日本人もね!! "
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.94,
+                        "neutral": 0.06,
+                        "negative": 0
+                    },
+                    "offset": 493,
+                    "length": 17,
+                    "text": "9,0 浴衣の質がとてもいいです。"
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.78,
+                        "neutral": 0.05,
+                        "negative": 0.17
+                    },
+                    "offset": 510,
+                    "length": 32,
+                    "text": "パリパリではなく、かと言ってダレっともしていない丁度よい着心地。"
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.14,
+                        "neutral": 0.06,
+                        "negative": 0.8
+                    },
+                    "offset": 542,
+                    "length": 15,
+                    "text": "嫌な匂いもまったく感じません。"
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.36,
+                        "negative": 0.63
+                    },
+                    "offset": 557,
+                    "length": 47,
+                    "text": "温泉は2箇所あって、大きい方は天井も高くてサウナ（現在コロナ対策のため中止）ルームもあります。"
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.6,
+                        "neutral": 0.38,
+                        "negative": 0.03
+                    },
+                    "offset": 604,
+                    "length": 31,
+                    "text": "シャワーも十分な水量があり、長い髪のジャンプも心配ないです。 "
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.84,
+                        "neutral": 0.13,
+                        "negative": 0.03
+                    },
+                    "offset": 635,
+                    "length": 56,
+                    "text": "食事は皆さんよくコメントされていますが、生野菜から始まって煮た野菜やおひたし風など偏らずに美味しくいただけます。"
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.2,
+                        "neutral": 0.68,
+                        "negative": 0.12
+                    },
+                    "offset": 691,
+                    "length": 34,
+                    "text": "夕食のボリュームときたらビックリするほど種類が次々に運ばれてきます。"
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.99,
+                        "negative": 0
+                    },
+                    "offset": 725,
+                    "length": 10,
+                    "text": "魚もお肉もあります。"
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0,
+                        "negative": 1
+                    },
+                    "offset": 735,
+                    "length": 30,
+                    "text": "予約時に苦手な食材やアレルギーについても確認されていました。"
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.95,
+                        "neutral": 0.05,
+                        "negative": 0.01
+                    },
+                    "offset": 765,
+                    "length": 31,
+                    "text": "とにかく宿泊者に喜んでもらいたいという思いが伝わってきます。 "
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 1,
+                        "negative": 0
+                    },
+                    "offset": 796,
+                    "length": 28,
+                    "text": "トイレは共同ですが、お部屋についているタイプのプランも。"
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.98,
+                        "negative": 0.01
+                    },
+                    "offset": 824,
+                    "length": 23,
+                    "text": "現在の入浴方式は暖簾を外したら使用中のサイン。"
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.25,
+                        "neutral": 0.74,
+                        "negative": 0.01
+                    },
+                    "offset": 847,
+                    "length": 19,
+                    "text": "お部屋ごとで家族風呂的な利用方法です。"
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.77,
+                        "negative": 0.2
+                    },
+                    "offset": 866,
+                    "length": 62,
+                    "text": "お客さんが多いときや入浴タイムが重なりそうなときには女将さんが声掛けして、待ち時間が長くなりすぎないように工夫されています。"
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.99,
+                        "negative": 0
+                    },
+                    "offset": 928,
+                    "length": 19,
+                    "text": "お宿の目の前に駐車場が数台分あります。"
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.89,
+                        "negative": 0.09
+                    },
+                    "offset": 947,
+                    "length": 51,
+                    "text": "コンビニもすぐ横手にあり、館内にはジュースの販売機などないのでコンビニを利用してね～と案内されました。"
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.1,
+                        "neutral": 0.89,
+                        "negative": 0.01
+                    },
+                    "offset": 998,
+                    "length": 26,
+                    "text": "自由に飲めるお水も常にウォーターサーバーにあります。"
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.05,
+                        "neutral": 0.93,
+                        "negative": 0.02
+                    },
+                    "offset": 1024,
+                    "length": 50,
+                    "text": "コーヒーも朝食後はレギュラーコーヒー、他のタイミングでもインスタントコーヒーなどがあったようです。 "
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0,
+                        "negative": 1
+                    },
+                    "offset": 1074,
+                    "length": 40,
+                    "text": "膝が悪いので畳だけで、椅子のない部屋で過ごす（食事も含めて）のだけが困りました。"
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.04,
+                        "neutral": 0,
+                        "negative": 0.96
+                    },
+                    "offset": 1114,
+                    "length": 84,
+                    "text": "お願いしたらきっと気持ちよく椅子を出したりしてくださったかと思いますが、とにかく一生懸命にサービスされている大将と女将さんなのでそれ以上お手間かけるのも申し訳なくて。 "
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.22,
+                        "neutral": 0.71,
+                        "negative": 0.07
+                    },
+                    "offset": 1198,
+                    "length": 26,
+                    "text": "なので、正座や畳で胡座かける人なら問題はありません。"
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.04,
+                        "negative": 0.95
+                    },
+                    "offset": 1224,
+                    "length": 37,
+                    "text": "普段ベッドで寝起きしていると畳から起き上がるのが結構苦労するものなんです。"
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.96,
+                        "negative": 0.03
+                    },
+                    "offset": 1261,
+                    "length": 10,
+                    "text": "その一点だけです。\n"
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.52,
+                        "neutral": 0.29,
+                        "negative": 0.19
+                    },
+                    "offset": 1271,
+                    "length": 37,
+                    "text": "大浴場入浴が忘れられない 8,0 大浴場があった事 トイレが共用で有る事\n"
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 1,
+                        "neutral": 0,
+                        "negative": 0
+                    },
+                    "offset": 1308,
+                    "length": 14,
+                    "text": "すごく良い旅になりました。 "
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.96,
+                        "neutral": 0.03,
+                        "negative": 0.01
+                    },
+                    "offset": 1322,
+                    "length": 39,
+                    "text": "10 女将さんが気さくな方で、宿泊中、終始、気持ち良く過ごさせて頂けました。 "
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 1,
+                        "neutral": 0,
+                        "negative": 0
+                    },
+                    "offset": 1361,
+                    "length": 43,
+                    "text": "それに加え、ご飯も温泉も最高でした♪ お部屋の洗面台のところに照明が欲しかったです。\n"
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 1,
+                        "neutral": 0,
+                        "negative": 0
+                    },
+                    "offset": 1404,
+                    "length": 55,
+                    "text": "居心地抜群 10 到着した日の夜、町の打ち上げ花火があると部屋に連絡を頂き、子供達と外で見る事が出来ました。 "
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.89,
+                        "neutral": 0.07,
+                        "negative": 0.04
+                    },
+                    "offset": 1459,
+                    "length": 26,
+                    "text": "もどってきたら、手持ち花火をくださり大喜びでした。 "
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.98,
+                        "neutral": 0.01,
+                        "negative": 0.01
+                    },
+                    "offset": 1485,
+                    "length": 43,
+                    "text": "女将さんのさりげない気遣いをそこかしこに感じ、一緒に行った母もとても喜んでいました。 "
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.05,
+                        "negative": 0.95
+                    },
+                    "offset": 1528,
+                    "length": 92,
+                    "text": "予約した時はトイレ付きの部屋が空いておらず、共同トイレの部屋を予約したのですが、お手洗いのすぐ隣の部屋だった為、夜間他の宿泊客が利用するたびにドアをバタンと閉める音が気になりました。\n"
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.99,
+                        "neutral": 0.01,
+                        "negative": 0
+                    },
+                    "offset": 1620,
+                    "length": 37,
+                    "text": "女将さんが素敵 10 お風呂　食事　お持てなし全てが素晴らしかったです。 "
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.33,
+                        "neutral": 0.67,
+                        "negative": 0
+                    },
+                    "offset": 1657,
+                    "length": 19,
+                    "text": "また機会が有れば宜しくお願い致します。"
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-11-01"
+}
